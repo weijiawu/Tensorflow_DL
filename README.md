@@ -9,3 +9,5 @@ This repository is to help us learning DL by Tensorflow.  Relevant blog can refe
 **<font color=#005000>basic_python**              &#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&#160; &#160;              mainly introduce some basic using of python
 
 **<font color=#005000>Tensorflow_basic_code**			&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160; 	  mainly introduce relevant conceptual knowledge
+
+**<font color=#005000>Linear_model**			&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160; 	  mainly introduce what is the linear model and how to optimize by gradient descent
