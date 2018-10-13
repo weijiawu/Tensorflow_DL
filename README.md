@@ -11,3 +11,5 @@ This repository is to help us learning DL by Tensorflow.  Relevant blog can refe
 **<font color=#005000>Tensorflow_basic_code**			&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160; 	  mainly introduce relevant conceptual knowledge
 
 **<font color=#005000>Linear_model**			&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160; 	  mainly introduce what is the linear model and how to optimize by gradient descent
+
+**<font color=#005000>Logistic_regression**			&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160; 	  mainly introduce what is the Linear regression and how to optimize by gradient descent
