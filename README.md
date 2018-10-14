@@ -2,7 +2,7 @@
 
 This repository is to help us learning DL by Tensorflow.  Relevant blog can refer the [blog](http://www.weijiawu.com.cn/)
 
-## `The following are some main parts about the using of Tensorflow:`
+## **<font size=5>The following are some main parts about the using of Tensorflow:**
 
 
 ### **Part_one: Basic_Operation**
