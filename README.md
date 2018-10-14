@@ -18,6 +18,9 @@ This repository is to help us learning DL by Tensorflow.  Relevant blog can refe
 
 * **<font color=#005000>neural_network**			&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160; 	  mainly introduce what is the nueral network and how to optimize 
 
+* **<font color=#005000>multi_classification_DL**			&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160; 	  mainly introduce how to solve multi-class problem by DL
+
+
 
 ### **Part_two: CNN**
 
