@@ -22,7 +22,13 @@ This repository is to help us learning DL by Tensorflow.  Relevant blog can refe
 
 * **<font color=#005000>Adadelta_optimizer**			&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160; 	  mainly introduce theory of the Adadelta and how to code
 
+* **<font color=#005000>Adagrad_optimizer**			&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160; 	  mainly introduce theory of the Adagrad and how to code
 
+* **<font color=#005000>Adam_optimizer**			&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160; 	  mainly introduce theory of the Adam and how to code
+
+* **<font color=#005000>Momentum_optimizer**			&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160; 	  mainly introduce theory of the Momentum and how to code
+
+* **<font color=#005000>RMSProp_optimizer**			&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160; 	  mainly introduce theory of the RMSProp and how to code
 
 
 ### **Part_two: CNN**
