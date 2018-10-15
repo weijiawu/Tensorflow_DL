@@ -20,6 +20,9 @@ This repository is to help us learning DL by Tensorflow.  Relevant blog can refe
 
 * **<font color=#005000>multi_classification_DL**			&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160; 	  mainly introduce how to solve multi-class problem by DL
 
+* **<font color=#005000>Adadelta_optimizer**			&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160; 	  mainly introduce theory of the Adadelta and how to code
+
+
 
 
 ### **Part_two: CNN**
