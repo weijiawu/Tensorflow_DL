@@ -30,6 +30,9 @@ This repository is to help us learning DL by Tensorflow.  Relevant blog can refe
 
 * **<font color=#005000>RMSProp_optimizer**			&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160; 	  mainly introduce theory of the RMSProp and how to code
 
+* **<font color=#005000>SGD_optimizer**			&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160; 	  mainly introduce theory of the SGD and how to code
+
+* **<font color=#005000>Assignment_1_predictor_of_house_prices**			&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160; 	  writing code to predict the housing prices by neural_network
 
 ### **Part_two: CNN**
 
