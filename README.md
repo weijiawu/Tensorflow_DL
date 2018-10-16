@@ -1,7 +1,5 @@
 # Tensorflow_DL
 
-weijiawu
-
 
 This repository is to help us learning DL by Tensorflow.  Relevant blog can refer the [blog](http://www.weijiawu.com.cn/)
 
