@@ -37,6 +37,11 @@ This repository is to help us learning DL by Tensorflow.  Relevant blog can refe
 
 ### **Part_two: CNN**
 
+* **<font color=#005000>CNN**			&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160; 	  mainly introduce what is CNN and how to code
+
+* **<font color=#005000>AlexNet**			&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160; 	  mainly introduce what is AlexNet and how to realize
+
+
 ### **Part_three: RNN**
 
 ### **Part_four: GAN**
