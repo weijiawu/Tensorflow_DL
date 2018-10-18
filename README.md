@@ -41,6 +41,10 @@ This repository is to help us learning DL by Tensorflow.  Relevant blog can refe
 
 * **<font color=#005000>AlexNet**			&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160; 	  mainly introduce what is AlexNet and how to realize
 
+* **<font color=#005000>API_keras_Tf-Slim**			&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160; 	  mainly introduce two common api of tensorflow and their characteristics
+
+* **<font color=#005000>VGG**			&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160; 	  mainly introduce the characteristics of VGG and how to realize
+
 
 ### **Part_three: RNN**
 
