@@ -45,6 +45,7 @@ This repository is to help us learning DL by Tensorflow.  Relevant blog can refe
 
 * **<font color=#005000>VGG**			&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160; 	  mainly introduce the characteristics of VGG and how to realize
 
+* **<font color=#005000>InceptionNet**			&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160; 	  mainly introduce the characteristics of InceptionNet and how to realize
 
 ### **Part_three: RNN**
 
