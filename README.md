@@ -51,6 +51,8 @@ This repository is to help us learning DL by Tensorflow.  Relevant blog can refe
 
 * **<font color=#005000>DenseNet**			&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160; 	  mainly introduce the characteristics of DenseNet and how to realize
 
+* **<font color=#005000>data_augmentation**			&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160; 	  mainly introduce what is data augmentation and its functions
+
 ### **Part_three: RNN**
 
 ### **Part_four: GAN**
