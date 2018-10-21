@@ -57,6 +57,11 @@ This repository is to help us learning DL by Tensorflow.  Relevant blog can refe
 
 * **<font color=#005000>dropout**			&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160; 	  mainly introduce what is dropout and its functions
 
+* **<font color=#005000>regualarization**			&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160; 	  mainly introduce what is regualarization and its functions
+
+* **<font color=#005000>Batch_standardization**			&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160; 	  mainly introduce what is Batch_standardization and its functions
+
+
 ### **Part_three: RNN**
 
 ### **Part_four: GAN**
