@@ -53,6 +53,10 @@ This repository is to help us learning DL by Tensorflow.  Relevant blog can refe
 
 * **<font color=#005000>data_augmentation**			&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160; 	  mainly introduce what is data augmentation and its functions
 
+* **<font color=#005000>Learning_rate_attenuation**			&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160; 	  mainly introduce why we need to fade learning rate and its advantage
+
+* **<font color=#005000>dropout**			&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160; 	  mainly introduce what is dropout and its functions
+
 ### **Part_three: RNN**
 
 ### **Part_four: GAN**
