@@ -61,6 +61,9 @@ This repository is to help us learning DL by Tensorflow.  Relevant blog can refe
 
 * **<font color=#005000>Batch_standardization**			&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160; 	  mainly introduce what is Batch_standardization and its functions
 
+* **<font color=#005000>State_Farm_Distracted_Driver_Detection**			&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160; 	  mainly introduce how to complete a kaggle competition about State Farm Distracted Driver Detection
+
+
 
 ### **Part_three: RNN**
 
