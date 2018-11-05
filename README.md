@@ -67,4 +67,15 @@ This repository is to help us learning DL by Tensorflow.  Relevant blog can refe
 
 ### **Part_three: RNN**
 
+* **<font color=#005000>Basic_information_RNN**			&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160; 	  mainly introduce what is RNN and how to use
+
+* **<font color=#005000>Image_classification**			&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160; 	  mainly introduce how to complete a Image classification by RNN
+
+* **<font color=#005000>Time_sequence**			&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160; 	  mainly introduce how to solve a Iime sequence problem by RNN
+
+* **<font color=#005000>NPL**			&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160; 	  mainly introduce how to solve NPL by RNN
+
+* **<font color=#005000>seq-lstm**			&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160; 	  mainly introduce how to predict word information by LSTM
+
+seq-lstm
 ### **Part_four: GAN**
