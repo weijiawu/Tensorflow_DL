@@ -77,5 +77,6 @@ This repository is to help us learning DL by Tensorflow.  Relevant blog can refe
 
 * **<font color=#005000>seq-lstm**			&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160; 	  mainly introduce how to predict word information by LSTM
 
+* **<font color=#005000>word-embedding**			&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160; 	  mainly introduce how to realize word-embedding
 
 ### **Part_four: GAN**
