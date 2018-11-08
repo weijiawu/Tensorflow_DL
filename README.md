@@ -79,4 +79,6 @@ This repository is to help us learning DL by Tensorflow.  Relevant blog can refe
 
 * **<font color=#005000>word-embedding**			&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160; 	  mainly introduce how to realize word-embedding
 
+* **<font color=#005000>Generate_poetey**			&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160; 	  mainly introduce how to generate poetey by RNN
+
 ### **Part_four: GAN**
