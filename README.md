@@ -82,3 +82,5 @@ This repository is to help us learning DL by Tensorflow.  Relevant blog can refe
 * **<font color=#005000>Generate_poetey**			&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160; 	  mainly introduce how to generate poetey by RNN
 
 ### **Part_four: GAN**
+
+* **<font color=#005000>GAN**			&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160; 	  In this part, we mainly introduce what is GAN simply, and some simple example about GAN, such as generating digit base on mnist and generating face.
