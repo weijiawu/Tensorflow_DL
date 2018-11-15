@@ -84,3 +84,8 @@ This repository is to help us learning DL by Tensorflow.  Relevant blog can refe
 ### **Part_four: GAN**
 
 * **<font color=#005000>GAN**			&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160; 	  In this part, we mainly introduce what is GAN simply, and some simple example about GAN, such as generating digit base on mnist and generating face.
+
+
+### **Part_five: RL**
+
+* **<font color=#005000>RL**			&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160; 	  In this part, we mainly introduce what is RL simply, and some simple example about RL, such as .
